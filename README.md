@@ -5,9 +5,9 @@ Prerequisites
 To run this program, you will need to have the following libraries installed:
 
 openai
-pyperclip
-speech_recognition
-winsound
+,pyperclip
+,speech_recognition
+,winsound
 You will also need to replace YOUR_API_KEY in the code with your actual OpenAI API key.
 
 Running the program
